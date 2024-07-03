@@ -1,6 +1,7 @@
 ﻿using Library_SQLI.Mappers;
 using Library_SQLI.Models;
 using Library_SQLI.Repository;
+using Library_SQLI.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,7 +10,7 @@ namespace Library_SQLI.Controllers
     public class AuthorController : Controller
     {
         private readonly IAuthorRepository _authorRepository;
-        public AuthorController1(IAuthorRepository authorRepository)
+        public AuthorController(IAuthorRepository authorRepository)
         {
             _authorRepository = authorRepository;//injection repos
         }
@@ -19,21 +20,18 @@ namespace Library_SQLI.Controllers
             var authors = _authorRepository.GetAuthorList();
             var authorViewModels = authors.Select(AuthorMapper.GetAuthorViewModelFromAuthor).ToList();
             return View(authorViewModels);
-           
         }
-
-        public ActionResult Details(int id)
+        public IActionResult Details(int id)
         {
-            var author = _authorRepository.GetAuthorList().FirstOrDefault(a => a.Id == id);
+            var author = _authorRepository.GetAuthorById(id);
             if (author == null)
             {
                 return NotFound();
             }
-            var authorViewModel = AuthorMapper.GetAuthorViewModelFromAuthor(author);
-            return View(authorViewModel);
+            return View(author);
         }
 
- 
+
         public ActionResult Create()
         {
             return View();
@@ -42,7 +40,7 @@ namespace Library_SQLI.Controllers
   
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(AddAuthorVM authorAddVM)
         {
             try
             {
@@ -61,9 +59,16 @@ namespace Library_SQLI.Controllers
         }
 
 
-        public ActionResult Edit(int id)
+        public IActionResult Edit(int id)
         {
-            return View();
+            var author = _authorRepository.GetAuthorById(id);
+            if (author == null)
+            {
+                return NotFound();
+            }
+
+            var authorEditVM = AuthorMapper.GetAuthorEditVMFromAuthor(author);
+            return View(authorEditVM);
         }
 
         [HttpPost]

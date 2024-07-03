@@ -5,11 +5,13 @@ namespace Library_SQLI.Repository
     public interface IAuthorRepository
     {
         public void AddAuthor(Author a);
-        public void RemoveAuthor(Author a);
-        public void UpdateAuthor();
+        void RemoveAuthor(Author author);
+        void UpdateAuthor(Author author);
 
         public IList<Author> GetAuthorList();
         public Boolean Existe(Author a1);
+
+        Author GetAuthorById(int id);
 
     }
 }

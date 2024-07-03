@@ -1,18 +1,20 @@
 using Library_SQLI.Models;
+using Library_SQLI.Repository;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<MyContext>();
+builder.Services.AddScoped<IAuthorRepository, AuthorRepository>();
 
-builder.Services.AddDbContext<MyContext>(
 
-    opt =>
-    {
-        opt.UseSqlServer("Data Source =.; initial Catalog = Library_Sqli;Integrated Security=True;Encrypt = False ");
-    });
+builder.Services.AddDbContext<MyContext>(opt =>
+{
+    opt.UseSqlServer(@"Data Source=.\SQLEXPRESS; Initial Catalog=Library_Sqli; Integrated Security=True; Encrypt=false");
+});
 
 
 var app = builder.Build();
