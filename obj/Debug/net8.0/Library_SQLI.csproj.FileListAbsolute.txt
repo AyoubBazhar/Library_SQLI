@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\Library_SQLI\Library_SQLI\obj\Debug\net8.0\Library_SQLI.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Library_SQLI\Library_SQLI\obj\Debug\net8.0\Library_SQLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Library_SQLI\Library_SQLI\obj\Debug\net8.0\Library_SQLI.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Library_SQLI\Library_SQLI\obj\Debug\net8.0\Library_SQLI.AssemblyInfo.cs
+C:\Users\dell\source\repos\Library_SQLI\Library_SQLI\obj\Debug\net8.0\Library_SQLI.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Library_SQLI\Library_SQLI\obj\Debug\net8.0\Library_SQLI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\Library_SQLI\Library_SQLI\obj\Debug\net8.0\Library_SQLI.RazorAssemblyInfo.cache
+C:\Users\dell\source\repos\Library_SQLI\Library_SQLI\obj\Debug\net8.0\Library_SQLI.RazorAssemblyInfo.cs
