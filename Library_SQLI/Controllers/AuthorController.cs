@@ -1,19 +1,36 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Library_SQLI.Mappers;
+using Library_SQLI.Models;
+using Library_SQLI.Repository;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Library_SQLI.Controllers
 {
-    public class AuthorController1 : Controller
+    public class AuthorController : Controller
     {
+        private readonly IAuthorRepository _authorRepository;
+        public AuthorController1(IAuthorRepository authorRepository)
+        {
+            _authorRepository = authorRepository;//injection repos
+        }
 
         public ActionResult Index()
         {
-            return View();
+            var authors = _authorRepository.GetAuthorList();
+            var authorViewModels = authors.Select(AuthorMapper.GetAuthorViewModelFromAuthor).ToList();
+            return View(authorViewModels);
+           
         }
 
         public ActionResult Details(int id)
         {
-            return View();
+            var author = _authorRepository.GetAuthorList().FirstOrDefault(a => a.Id == id);
+            if (author == null)
+            {
+                return NotFound();
+            }
+            var authorViewModel = AuthorMapper.GetAuthorViewModelFromAuthor(author);
+            return View(authorViewModel);
         }
 
  
@@ -29,11 +46,17 @@ namespace Library_SQLI.Controllers
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    var author = AuthorMapper.GetAuthorFromAuthorAddVM(authorAddVM);
+                    _authorRepository.AddAuthor(author);
+                    return RedirectToAction(nameof(Index));
+                }
+                return View(authorAddVM);
             }
             catch
             {
-                return View();
+                return View(authorAddVM);
             }
         }
 
