@@ -25,18 +25,21 @@ namespace Library_SQLI.Repository
             return list;
         }
 
-        public void RemoveAuthor(Author a)
+        public void RemoveAuthor(Author author)
         {
-            if (Existe(a)) {
-                _context.Authors.Include(a=>a.Books).Remo;
+            var existingAuthor = _context.Authors.Include(a => a.Books).FirstOrDefault(a => a.Id == author.Id);
+            if (existingAuthor != null)
+            {
+                _context.Authors.Remove(existingAuthor);
                 _context.SaveChanges();
             }
         }
-
-        public void UpdateAuthor()
+        public void UpdateAuthor(Author author)
         {
+            _context.Entry(author).State = EntityState.Modified;
             _context.SaveChanges();
         }
+
         public Boolean Existe(Author a1)
         {
         Author aa = _context.Authors.FirstOrDefault(a=>a.Id == a1.Id);
@@ -49,5 +52,16 @@ namespace Library_SQLI.Repository
                 return false;
             }
         }
+        public Author GetAuthorById(int id)
+        {
+            return _context.Authors.Find(id);
+        }
+        public Author GetAuthorWithBooks(int id)
+        {
+            return _context.Authors
+                           .Include(a => a.Books)
+                           .FirstOrDefault(a => a.Id == id);
+        }
+
     }
 }

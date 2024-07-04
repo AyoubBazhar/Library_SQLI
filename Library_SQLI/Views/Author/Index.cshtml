@@ -1,0 +1,28 @@
+﻿@model List<Library_SQLI.ViewModels.AuthorViewModel>
+
+
+<h2>Liste des auteurs</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nom</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var author in Model)
+        {
+            <tr>
+                <td>@author.Name</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@author.Id"
+                       class="btn btn-outline-primary">Afficher les détails</a>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Ajouter un nouvel auteur</a>
+

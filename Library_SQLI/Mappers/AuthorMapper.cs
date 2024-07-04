@@ -5,14 +5,43 @@ namespace Library_SQLI.Mappers
 {
     public class AuthorMapper
     {
-
-        public static AddAuthorVMTOAuthor(AddAuthorVM v1)
+        //conversion mn viewmodels l model author
+        public static Author GetAuthorFromAuthorAddVM(AddAuthorVM authorAddVM)
         {
-            Author author = new Author();
-            author.Name = v1.Name;  
-            author.Id=v1.ID;
-            
+            return new Author
+            {
+                Name = authorAddVM.Name,
+               
+            };
+        }
+        public static AuthorEditVM GetAuthorEditVMFromAuthor(Author author)
+        {
+            return new AuthorEditVM
+            {
+                Id = author.Id,
+                Name = author.Name,
+            };
+        }
 
+
+        public static Author GetAuthorFromAuthorEditVM(AuthorEditVM authorEditVM)
+        {
+            return new Author
+            {
+                Id = authorEditVM.Id,
+                Name = authorEditVM.Name,
+              
+            };
+        }
+
+        public static AuthorViewModel GetAuthorViewModelFromAuthor(Author author)
+        {
+            return new AuthorViewModel
+            {
+                Id = author.Id,
+                Name = author.Name,
+                
+            };
         }
     }
 }
