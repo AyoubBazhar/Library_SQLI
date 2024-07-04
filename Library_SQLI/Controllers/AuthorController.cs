@@ -77,6 +77,7 @@ namespace Library_SQLI.Controllers
         {
             try
             {
+                /////je  suis  dans  edit/////hd
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -101,7 +102,7 @@ namespace Library_SQLI.Controllers
                 return RedirectToAction(nameof(Index));
             }
             catch
-            {
+            {//7777
                 return View();
             }
         }
