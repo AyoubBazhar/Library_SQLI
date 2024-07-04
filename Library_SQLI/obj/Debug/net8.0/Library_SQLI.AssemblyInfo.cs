@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Library_SQLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aeb339bba91de1f39f009ad4021cedfebea6032")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50bb27fa5d23087f477122350ff4b4e8c1289abc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Library_SQLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Library_SQLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

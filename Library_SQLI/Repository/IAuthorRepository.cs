@@ -12,6 +12,6 @@ namespace Library_SQLI.Repository
         public Boolean Existe(Author a1);
 
         Author GetAuthorById(int id);
-
+        Author GetAuthorWithBooks(int id);
     }
 }

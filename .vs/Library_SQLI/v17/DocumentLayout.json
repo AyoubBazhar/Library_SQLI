@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\views\\author\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\views\\author\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\controllers\\bookcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\controllers\\bookcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\views\\author\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\views\\author\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,24 +39,12 @@
       "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\mappers\\authormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\mappers\\authormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\viewmodels\\authorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\viewmodels\\authorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|solutionrelative:library_sqli\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B51BF9FA-C1FA-4D4D-A10D-4C1C2E18044F}|Library_SQLI\\Library_SQLI.csproj|c:\\users\\hp\\source\\repos\\library_sqli\\library_sqli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,7 +101,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,10 +113,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
@@ -116,32 +120,51 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Views\\Author\\Index.cshtml",
-              "RelativeDocumentMoniker": "Library_SQLI\\Views\\Author\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Views\\Author\\Index.cshtml",
-              "RelativeToolTip": "Library_SQLI\\Views\\Author\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T16:31:34.286Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "BookController1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Controllers\\BookController1.cs",
+              "RelativeDocumentMoniker": "Library_SQLI\\Controllers\\BookController1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Controllers\\BookController1.cs",
+              "RelativeToolTip": "Library_SQLI\\Controllers\\BookController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:15:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library_SQLI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Models\\Book.cs",
+              "RelativeToolTip": "Library_SQLI\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:07:25.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AuthorController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Controllers\\AuthorController.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Controllers\\AuthorController.cs",
               "RelativeToolTip": "Library_SQLI\\Controllers\\AuthorController.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAuwEwAAAAJAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:35:52.652Z"
+              "WhenOpened": "2024-07-03T15:35:52.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Views\\Author\\Create.cshtml",
               "RelativeDocumentMoniker": "Library_SQLI\\Views\\Author\\Create.cshtml",
@@ -153,20 +176,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Views\\Author\\Details.cshtml",
               "RelativeDocumentMoniker": "Library_SQLI\\Views\\Author\\Details.cshtml",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Views\\Author\\Details.cshtml",
               "RelativeToolTip": "Library_SQLI\\Views\\Author\\Details.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-03T16:33:50.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "20240703192929_second.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Migrations\\20240703192929_second.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Migrations\\20240703192929_second.cs",
@@ -178,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Models\\Author.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Models\\Author.cs",
@@ -186,23 +209,50 @@
               "RelativeToolTip": "Library_SQLI\\Models\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:51:05.237Z"
+              "WhenOpened": "2024-07-03T15:51:05.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "IAuthorRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Repository\\IAuthorRepository.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Repository\\IAuthorRepository.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Repository\\IAuthorRepository.cs",
               "RelativeToolTip": "Library_SQLI\\Repository\\IAuthorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:36:12.926Z"
+              "WhenOpened": "2024-07-03T15:36:12.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Repository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Library_SQLI\\Repository\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Repository\\AuthorRepository.cs",
+              "RelativeToolTip": "Library_SQLI\\Repository\\AuthorRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:36:10.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library_SQLI\\Views\\Author\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "Library_SQLI\\Views\\Author\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T16:31:34.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AuthorMapper.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Mappers\\AuthorMapper.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Mappers\\AuthorMapper.cs",
@@ -214,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "AuthorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\ViewModels\\AuthorViewModel.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\ViewModels\\AuthorViewModel.cs",
@@ -226,19 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Repository\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "Library_SQLI\\Repository\\AuthorRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Repository\\AuthorRepository.cs",
-              "RelativeToolTip": "Library_SQLI\\Repository\\AuthorRepository.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAUwDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:36:10.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Program.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Program.cs",
@@ -250,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "20240703193311_third.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Migrations\\20240703193311_third.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Migrations\\20240703193311_third.cs",
@@ -262,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AddAuthorVM.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\ViewModels\\AddAuthorVM.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\ViewModels\\AddAuthorVM.cs",
@@ -274,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "20240703192223_first.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Migrations\\20240703192223_first.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Migrations\\20240703192223_first.cs",
@@ -286,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Repository\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Repository\\IBookRepository.cs",
@@ -298,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AuthorEditVM.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\ViewModels\\AuthorEditVM.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\ViewModels\\AuthorEditVM.cs",
@@ -310,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Repository\\BookRepository.cs",
               "RelativeDocumentMoniker": "Library_SQLI\\Repository\\BookRepository.cs",
@@ -322,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\7.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
@@ -333,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Library_SQLI\\Properties\\launchSettings.json",
@@ -345,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\appsettings.json",
               "RelativeDocumentMoniker": "Library_SQLI\\appsettings.json",
@@ -357,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Library_SQLI.csproj",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj",
               "RelativeDocumentMoniker": "Library_SQLI\\Library_SQLI.csproj",

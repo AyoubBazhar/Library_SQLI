@@ -56,6 +56,12 @@ namespace Library_SQLI.Repository
         {
             return _context.Authors.Find(id);
         }
+        public Author GetAuthorWithBooks(int id)
+        {
+            return _context.Authors
+                           .Include(a => a.Books)
+                           .FirstOrDefault(a => a.Id == id);
+        }
 
     }
 }

@@ -23,7 +23,7 @@ namespace Library_SQLI.Controllers
         }
         public IActionResult Details(int id)
         {
-            var author = _authorRepository.GetAuthorById(id);
+            var author = _authorRepository.GetAuthorWithBooks(id);
             if (author == null)
             {
                 return NotFound();
