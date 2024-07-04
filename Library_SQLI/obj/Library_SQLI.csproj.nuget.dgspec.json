@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj": {}
+    "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj": {
+    "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj",
+        "projectUniqueName": "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj",
         "projectName": "Library_SQLI",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Library_SQLI\\Library_SQLI\\obj\\",
+        "projectPath": "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj",
+        "packagesPath": "C:\\Users\\BOUJNANE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BOUJNANE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
