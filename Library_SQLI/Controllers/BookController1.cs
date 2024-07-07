@@ -9,44 +9,34 @@ namespace Library_SQLI.Controllers
 {
     public class BooksController : Controller
     {
-        private readonly BookRepository _bookRepository;
+        private readonly IBookRepository _bookRepository;
+        private readonly IAuthorRepository _authorRepository;
 
-        public BooksController(BookRepository bookRepository)
+        public BooksController(IBookRepository bookRepository,IAuthorRepository authorRepository)
         {
             _bookRepository = bookRepository;
+            _authorRepository = authorRepository;
         }
 
-        // GET: Books
+        
         public IActionResult Index()
         {
             var books = _bookRepository.GetBookList();
             return View(books);
         }
 
-        // GET: Books/Details/5
-        public IActionResult Details(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var book = _bookRepository.GetBookList().FirstOrDefault(m => m.Id == id);
-            if (book == null)
-            {
-                return NotFound();
-            }
-
-            return View(book);
-        }
+        
+ 
 
     
         public IActionResult Create()
         {
-            return View();
+            var authors = _authorRepository.GetAuthorList(); 
+            AddBookVM v = new AddBookVM();
+            v.Authors=BookMapper.ListAutherSelectedList(authors).ToList();
+            return View(v);
         }
 
-        // POST: Books/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(AddBookVM book)
@@ -57,81 +47,71 @@ namespace Library_SQLI.Controllers
                 _bookRepository.AddBook(b);
                 return RedirectToAction(nameof(Index));
             }
+            var authors = _authorRepository.GetAuthorList();
+            AddBookVM v = new AddBookVM();
+            v.Authors = BookMapper.ListAutherSelectedList(authors).ToList();
             return View();
         }
 
-        // GET: Books/Edit/5
-        public IActionResult Edit(int? id)
+
+        public IActionResult Edit(int id)
         {
-            if (id == null)
+            
+            if (!_bookRepository.ExisteWIthID(id))
             {
                 return NotFound();
+            }
+            Book bb = _bookRepository.GetBookByID(id);
+            if (bb != null)
+            {
+                UpdateBookVM V = BookMapper.BOOKTOUpdateVM(bb);
+                return View(V);
             }
 
-            var book = _bookRepository.GetBookList().FirstOrDefault(m => m.Id == id);
-            if (book == null)
-            {
-                return NotFound();
-            }
-            return View(book);
+            return NotFound();
         }
 
-        // POST: Books/Edit/5
+       
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, [Bind("Id,Title,Genre,AuthorId")] Book book)
+        public IActionResult Edit(UpdateBookVM vm)
         {
-            if (id != book.Id)
-            {
-                return NotFound();
-            }
-
+           
             if (ModelState.IsValid)
             {
-                try
-                {
-                    _bookRepository.UpdateBook(book);
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!_bookRepository.Existe(book))
+               
+                    if (_bookRepository.ExisteWIthID(vm.Id))
                     {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
+                        Book b = BookMapper.UpdateVMTOBOOK(vm);
+                        _bookRepository.UpdateBook(b);
+                         return RedirectToAction(nameof(Index));
+                    
                 }
-                return RedirectToAction(nameof(Index));
+                
+
+
             }
-            return View(book);
+            return View();
+
         }
 
         // GET: Books/Delete/5
-        public IActionResult Delete(int? id)
+        public IActionResult Delete(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var book = _bookRepository.GetBookList().FirstOrDefault(m => m.Id == id);
+            Book book = _bookRepository.GetBookByID(id);
             if (book == null)
             {
                 return NotFound();
             }
-            return View(book);
+            _bookRepository.RemoveBook(book);
+            return RedirectToAction("Index");
         }
 
-        // POST: Books/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public IActionResult DeleteConfirmed(int id)
-        {
-            var book = _bookRepository.GetBookList().FirstOrDefault(m => m.Id == id);
-            _bookRepository.RemoveBook(book);
-            return RedirectToAction(nameof(Index));
-        }
+       
     }
 }

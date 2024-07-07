@@ -18,7 +18,7 @@ namespace Library_SQLI.Repository
 
         public bool Existe(Book b11)
         {
-            Book u = _context.Books.FirstOrDefault(bb1=>bb1.Id==b11.Id);
+            Book u = _context.Books.Include(I=>I.Author).FirstOrDefault(bb1=>bb1.Id==b11.Id);
             if (u != null)
             {
                 return true;
@@ -26,11 +26,31 @@ namespace Library_SQLI.Repository
             return false;
         }
 
-        public IList<Book> GetBookList()
+        public Book GetBookByID(int  id)
         {
-           IList<Book> books = new List<Book>();
+            return _context.Books.Include(I => I.Author).FirstOrDefault(bb1 => bb1.Id == id);
+        }
 
-            books = _context.Books.Include(a=>a.Id).ToList();
+        public bool ExisteWIthID(int  id)
+        {
+            Book u = _context.Books.Include(i=>i.Author).FirstOrDefault(bb1=>bb1.Id==id);
+
+            if (u != null)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+            
+        }
+        public List<Book> GetBookList()
+        {
+           List<Book> books = new List<Book>();
+
+            books = _context.Books.Include(I=>I.Author).ToList();
             return books;
         }
 
@@ -44,13 +64,13 @@ namespace Library_SQLI.Repository
         }
         public void UpdateBook(Book book)
         {
-            var existingBook = _context.Books.FirstOrDefault(b => b.Id == book.Id);
+            var existingBook = _context.Books.Include(I=>I.Author).FirstOrDefault(b => b.Id == book.Id);
             if (existingBook != null)
             {
                 existingBook.Title = book.Title;
                 existingBook.Genre = book.Genre;
-                existingBook.AuthorId = book.AuthorId;
-                _context.Entry(existingBook).State = EntityState.Modified;
+              
+               
                 _context.SaveChanges();
             }
         }

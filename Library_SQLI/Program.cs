@@ -8,13 +8,17 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<MyContext>();
-builder.Services.AddScoped<IAuthorRepository, AuthorRepository>();
+
 
 
 builder.Services.AddDbContext<MyContext>(opt =>
 {
-    opt.UseSqlServer(@"Data Source=.\SQLEXPRESS; Initial Catalog=Library_Sqli; Integrated Security=True; Encrypt=false");
+    opt.UseSqlServer("Data Source=.;Initial Catalog=gestion_Library;Integrated Security=True;Encrypt=False;");
 });
+
+
+builder.Services.AddScoped<IBookRepository, BookRepository>();
+builder.Services.AddScoped<IAuthorRepository, AuthorRepository>();
 
 
 var app = builder.Build();

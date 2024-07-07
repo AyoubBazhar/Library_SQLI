@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj": {}
+    "C:\\Users\\dell\\Desktop\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj": {
+    "C:\\Users\\dell\\Desktop\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj",
         "projectName": "Library_SQLI",
-        "projectPath": "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj",
-        "packagesPath": "C:\\Users\\BOUJNANE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BOUJNANE\\Library_SQLI\\Library_SQLI\\obj\\",
+        "projectPath": "C:\\Users\\dell\\Desktop\\Library_SQLI\\Library_SQLI\\Library_SQLI.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\Library_SQLI\\Library_SQLI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\BOUJNANE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -88,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
