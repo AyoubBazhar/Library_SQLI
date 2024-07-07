@@ -5,7 +5,7 @@
 namespace Library_SQLI.Migrations
 {
     /// <inheritdoc />
-    public partial class first : Migration
+    public partial class ff : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

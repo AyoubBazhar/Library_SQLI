@@ -1,10 +1,9 @@
-﻿using Library_SQLI.Models;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
 using System.ComponentModel.DataAnnotations;
 
 namespace Library_SQLI.ViewModels
 {
-    public class AddBookVM
+    public class BookVM
     {
         [Required]
         public string Title { get; set; }
@@ -12,9 +11,6 @@ namespace Library_SQLI.ViewModels
         public string Genre { get; set; }
         [Required]
         public int AuthorId { get; set; }
-        public IList<SelectListItem> ? Authors { get; set; }
-     
-
 
     }
 }

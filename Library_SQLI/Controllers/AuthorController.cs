@@ -59,6 +59,7 @@ namespace Library_SQLI.Controllers
         }
 
 
+
         public IActionResult Edit(int id)
         {
             var author = _authorRepository.GetAuthorById(id);
@@ -73,36 +74,65 @@ namespace Library_SQLI.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(int id, AuthorEditVM authorEditVM)
         {
+            if (!ModelState.IsValid)
+            {
+                return View(authorEditVM);
+            }
+
             try
             {
-                /////je  suis  dans  edit/////hd
+                var author = _authorRepository.GetAuthorById(id);
+                if (author == null)
+                {
+                    return NotFound();
+                }
+
+
+                author.Name = authorEditVM.Name;
+                _authorRepository.UpdateAuthor(author);
+
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
-                return View();
+                return View(authorEditVM);
             }
         }
+
+
 
 
         public ActionResult Delete(int id)
         {
-            return View();
-        }
+            var author = _authorRepository.GetAuthorById(id);
+            if (author == null)
+            {
+                return NotFound();
+            }
 
+            return View(author);
+        }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult DeleteConfirmed(int id)
         {
             try
             {
+                var author = _authorRepository.GetAuthorById(id);
+                if (author == null)
+                {
+                    return NotFound();
+                }
+
+                _authorRepository.RemoveAuthor(author);
+
                 return RedirectToAction(nameof(Index));
             }
             catch
-            {//7777
+            {
                 return View();
             }
         }

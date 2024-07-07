@@ -1,0 +1,33 @@
+﻿
+@model List<Library_SQLI.Models.Book>
+
+<div class="container">
+    <a asp-action="Create" asp-controller="Books" class="btn btn-primary">Ajouter un Livre</a>
+    <h2>Liste des Livres</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Titre</th>
+                <th>Genre</th>
+                <th>Auteur</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Id</td>
+                    <td>@book.Title</td>
+                    <td>@book.Genre</td>
+                    <td>@book.Author.Name</td>
+                    <td>
+                        <a asp-action="Edit" asp-controller="Books" asp-route-id="@book.Id" class="btn btn-primary">Modifier</a>
+                        <a asp-action="Delete" asp-controller="Books" asp-route-id="@book.Id" onclick="return confirm('Vous êtes sûr de vouloir supprimer ce livre ?')" class="btn btn-danger">Supprimer</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

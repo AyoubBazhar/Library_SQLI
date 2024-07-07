@@ -1,0 +1,14 @@
+﻿@model Library_SQLI.ViewModels.AuthorEditVM
+
+<h2>Modifier un auteur</h2>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Modifier</button>
+    <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+</form>
