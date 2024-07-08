@@ -14,6 +14,13 @@
             <input type="text" asp-for="Genre" class="form-control" placeholder="Entrez le genre">
             <span asp-validation-for="Genre" class="text-danger"></span>
         </div>
+        <div class="form-group">
+            <label asp-for="AuthorId">Auteur</label>
+            <select asp-for="AuthorId" class="form-control" asp-items="Model.Authors">
+                <option value="">Sélectionner un auteur</option>
+            </select>
+            <span asp-validation-for="AuthorId" class="text-danger"></span>
+        </div>
         
         <button type="submit" class="btn btn-primary">Modifier</button>
     </form>

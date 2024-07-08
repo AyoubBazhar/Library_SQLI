@@ -40,6 +40,7 @@ namespace Library_SQLI.Mappers
                 bb.AuthorId = vm.AuthorId;
                 bb.Title = vm.Title;
                 bb.Genre = vm.Genre;
+                
                 return bb;
             }
             return null;
