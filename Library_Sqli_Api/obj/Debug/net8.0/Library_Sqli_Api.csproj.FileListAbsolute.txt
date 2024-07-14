@@ -1,0 +1,414 @@
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.AssemblyInfo.cs
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.exe
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.deps.json
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.runtimeconfig.json
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.pdb
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.Library_Sqli_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Library_Sqli_Api.props
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Library_Sqli_Api.props
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Library_Sqli_Api.props
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\scopedcss\bundle\Library_Sqli_Api.styles.css
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_.43BD1E4D.Up2Date
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\refint\Library_Sqli_Api.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.pdb
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.genruntimeconfig.cache
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\ref\Library_Sqli_Api.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.sourcelink.json
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\appsettings.Development.json
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\appsettings.json
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.exe
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.deps.json
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.runtimeconfig.json
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.pdb
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Azure.Core.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Humanizer.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Text.Json.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.csproj.AssemblyReference.cache
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.AssemblyInfoInputs.cache
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.AssemblyInfo.cs
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.csproj.CoreCompileInputs.cache
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.sourcelink.json
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.Library_Sqli_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Library_Sqli_Api.props
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Library_Sqli_Api.props
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Library_Sqli_Api.props
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\scopedcss\bundle\Library_Sqli_Api.styles.css
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_.43BD1E4D.Up2Date
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\refint\Library_Sqli_Api.dll
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.pdb
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.genruntimeconfig.cache
+D:\SQLI\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\ref\Library_Sqli_Api.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\appsettings.Development.json
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\appsettings.json
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.exe
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.deps.json
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.runtimeconfig.json
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Library_Sqli_Api.pdb
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Azure.Core.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Humanizer.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Text.Json.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.csproj.AssemblyReference.cache
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.AssemblyInfoInputs.cache
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.AssemblyInfo.cs
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.csproj.CoreCompileInputs.cache
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.sourcelink.json
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.Library_Sqli_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Library_Sqli_Api.props
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Library_Sqli_Api.props
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Library_Sqli_Api.props
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\scopedcss\bundle\Library_Sqli_Api.styles.css
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_.43BD1E4D.Up2Date
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\refint\Library_Sqli_Api.dll
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.pdb
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.genruntimeconfig.cache
+D:\5eme Année\Library_Sqli_Api\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\ref\Library_Sqli_Api.dll
